@@ -1,2 +1,2 @@
 # chat-app
-example chat application with python backend and react frontend
+example chat application written in Python
